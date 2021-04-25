@@ -1,5 +1,14 @@
-### Hi there 👋
-
+###  Amir Mohammad Yaghoubi 👋
+const biography = {
+    hobbies: ['Coding', 'Listening to music'],
+    lang: ['Python', 'Javascript', 'Cpp'],
+    tools: ['Django', 'React', 'Redux', 'Docker'],
+    working_on: ['Megacoders', 'PersonalProjects'],
+    targets: [
+      'Complete Personal Projects 😄',
+      'Make MegaCoders Website Better ⚡',
+    ]
+}
 <!--
 **Amir-Mohamad/Amir-Mohamad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
